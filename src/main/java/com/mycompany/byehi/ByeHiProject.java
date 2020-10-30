@@ -18,6 +18,8 @@ public class ByeHiProject {
         
         System.out.println("Oct.30");
         
+        System.out.println("Friday");
+        
     }
     
 }
